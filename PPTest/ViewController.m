@@ -36,7 +36,7 @@
     }
     else
     {
-        NSLog(@"file not exists in the path");
+        NSLog(@"File not exists in the path");
     }
 }
 
